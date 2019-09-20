@@ -1,5 +1,5 @@
 {
-  "name": "games-api",
+  "name": "switchgamesserver",
   "version": "1.0.0",
   "description": "games server",
   "main": "app.js",
@@ -17,7 +17,7 @@
     "jsonwebtoken": "^8.5.1",
     "pg": "^7.12.1",
     "pg-hstore": "2.3.3",
-    "sequelize": "^5.16.0"
+    "sequelize": "^5.18.4"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
